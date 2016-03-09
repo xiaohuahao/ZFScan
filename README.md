@@ -14,6 +14,7 @@ A simple scan QRCode / BarCode library for iOS - 仿微信 二维码/条形码 �
         ZFScanViewController * vc = [[ZFScanViewController alloc] init];
         vc.returnScanBarCodeValue = ^(NSString * barCodeString){
             //扫描完成后，在此进行后续操作
+            NSLog(@"扫描结果======%@",barCodeString);
         };
     
         [self.navigationController pushViewController:vc animated:YES];
