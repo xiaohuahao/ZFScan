@@ -24,6 +24,7 @@
 		18CEF7891C8EAAA200462665 /* ZFMaskView.m in Sources */ = {isa = PBXBuildFile; fileRef = 18CEF7801C8EAAA200462665 /* ZFMaskView.m */; };
 		18CEF78A1C8EAAA200462665 /* ZFScanViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18CEF7821C8EAAA200462665 /* ZFScanViewController.m */; };
 		611F8EA31FB304A6001C0FBB /* HuaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 611F8EA21FB304A6001C0FBB /* HuaViewController.m */; };
+		6125B57D1FB2EE5100440D4F /* HaoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6125B57C1FB2EE5100440D4F /* HaoViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -73,6 +74,8 @@
 		18CEF7821C8EAAA200462665 /* ZFScanViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFScanViewController.m; sourceTree = "<group>"; };
 		611F8EA11FB304A6001C0FBB /* HuaViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HuaViewController.h; sourceTree = "<group>"; };
 		611F8EA21FB304A6001C0FBB /* HuaViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HuaViewController.m; sourceTree = "<group>"; };
+		6125B57B1FB2EE5100440D4F /* HaoViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HaoViewController.h; sourceTree = "<group>"; };
+		6125B57C1FB2EE5100440D4F /* HaoViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HaoViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +132,8 @@
 				18CEF74A1C8EAA9000462665 /* ViewController.m */,
 				611F8EA11FB304A6001C0FBB /* HuaViewController.h */,
 				611F8EA21FB304A6001C0FBB /* HuaViewController.m */,
+				6125B57B1FB2EE5100440D4F /* HaoViewController.h */,
+				6125B57C1FB2EE5100440D4F /* HaoViewController.m */,
 				18CEF74C1C8EAA9000462665 /* Main.storyboard */,
 				18CEF7761C8EAAA200462665 /* ZFScan */,
 				18CEF74F1C8EAA9000462665 /* Assets.xcassets */,
@@ -333,6 +338,7 @@
 				18CEF7481C8EAA9000462665 /* AppDelegate.m in Sources */,
 				18CEF7451C8EAA9000462665 /* main.m in Sources */,
 				18CEF7881C8EAAA200462665 /* ZFConst.m in Sources */,
+				6125B57D1FB2EE5100440D4F /* HaoViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
