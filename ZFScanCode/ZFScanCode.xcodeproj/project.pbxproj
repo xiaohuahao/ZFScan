@@ -24,6 +24,7 @@
 		18CEF7891C8EAAA200462665 /* ZFMaskView.m in Sources */ = {isa = PBXBuildFile; fileRef = 18CEF7801C8EAAA200462665 /* ZFMaskView.m */; };
 		18CEF78A1C8EAAA200462665 /* ZFScanViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18CEF7821C8EAAA200462665 /* ZFScanViewController.m */; };
 		611F8EA31FB304A6001C0FBB /* HuaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 611F8EA21FB304A6001C0FBB /* HuaViewController.m */; };
+		AE3596D71FC2CF6900B5C714 /* HaoNewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AE3596D61FC2CF6900B5C714 /* HaoNewViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -73,6 +74,8 @@
 		18CEF7821C8EAAA200462665 /* ZFScanViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFScanViewController.m; sourceTree = "<group>"; };
 		611F8EA11FB304A6001C0FBB /* HuaViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HuaViewController.h; sourceTree = "<group>"; };
 		611F8EA21FB304A6001C0FBB /* HuaViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HuaViewController.m; sourceTree = "<group>"; };
+		AE3596D51FC2CF6900B5C714 /* HaoNewViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HaoNewViewController.h; sourceTree = "<group>"; };
+		AE3596D61FC2CF6900B5C714 /* HaoNewViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HaoNewViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +132,8 @@
 				18CEF74A1C8EAA9000462665 /* ViewController.m */,
 				611F8EA11FB304A6001C0FBB /* HuaViewController.h */,
 				611F8EA21FB304A6001C0FBB /* HuaViewController.m */,
+				AE3596D51FC2CF6900B5C714 /* HaoNewViewController.h */,
+				AE3596D61FC2CF6900B5C714 /* HaoNewViewController.m */,
 				18CEF74C1C8EAA9000462665 /* Main.storyboard */,
 				18CEF7761C8EAAA200462665 /* ZFScan */,
 				18CEF74F1C8EAA9000462665 /* Assets.xcassets */,
@@ -328,6 +333,7 @@
 			files = (
 				18CEF7891C8EAAA200462665 /* ZFMaskView.m in Sources */,
 				611F8EA31FB304A6001C0FBB /* HuaViewController.m in Sources */,
+				AE3596D71FC2CF6900B5C714 /* HaoNewViewController.m in Sources */,
 				18CEF78A1C8EAAA200462665 /* ZFScanViewController.m in Sources */,
 				18CEF74B1C8EAA9000462665 /* ViewController.m in Sources */,
 				18CEF7481C8EAA9000462665 /* AppDelegate.m in Sources */,
