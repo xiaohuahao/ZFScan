@@ -5,6 +5,8 @@
 //  Created by apple on 16/3/8.
 //  Copyright © 2016年 apple. All rights reserved.
 //  test hua
+//  test hao
+//  you le
 
 #import "AppDelegate.h"
 
@@ -18,6 +20,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     NSLog(@"你奶奶的！");
+    NSLog(@"你大爷的---");
     
     return YES;
 }
